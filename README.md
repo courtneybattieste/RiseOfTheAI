@@ -4,11 +4,11 @@ A video game where you must navigate a platform world full of scorpions! Use the
 
 Previews of the game:
 
-![ Alt text](RiseOfTheAIFailed.gif)  [](RiseOfTheAIFailed.gif)
+![Failed](RiseOfTheAIFailed.gif)
 
-![ Alt text](RiseOfTheAISuccess.gif)  [](RiseOfTheAISuccess.gif)
+![Successful](RiseOfTheAISuccess.gif) 
 
 
 Tools Used:
 
--Visual Studio
+- Visual Studio
