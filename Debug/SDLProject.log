@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLProject.vcxproj, Week 5.vcxproj, Week 8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  LINK : program database C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P4\P4 - Courtney Battiese\Debug\P4.pdb missing; performing full link
-  SDLProject.vcxproj -> C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P4\P4 - Courtney Battiese\Debug\P4.exe
