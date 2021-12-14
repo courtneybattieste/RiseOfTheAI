@@ -1,0 +1,9 @@
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P2\SDLProject\Debug\SDLProject.exe
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P2\SDLProject\Debug\SDLProject.pdb
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P3\In Class Code\Debug\Week 5.exe
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P3\In Class Code\Debug\Week 5.pdb
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P3\In Class Code Week 6\Debug\Week 5.exe
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P3\In Class Code Week 6\Debug\Week 5.pdb
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P4\In Class Code Week 8\Debug\Week 8.exe
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P4\In Class Code Week 8\Debug\Week 8.pdb
+C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P4\P4 - Courtney Battiese\Debug\P4.exe
